@@ -4169,7 +4169,7 @@ Top Bar Three CSS
 @media (max-width: 575px) {
   .top__bar {
     padding: 5px 0;
-    display:none;
+    display: none;
   }
 
   .topbar__three-right ul li {
